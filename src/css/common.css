@@ -81,3 +81,8 @@ input {
   font-size: 15px;
   color: #212121;
 }
+
+.btn_promis {
+  width: 120px;
+  height: 50px;
+}
